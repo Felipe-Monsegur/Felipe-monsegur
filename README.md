@@ -1,6 +1,6 @@
 # Hello! I'm Felipe Monsegur! Full Stack Developer
 
-##Junior Full Stack Developer and Systems Engineering Student
+## Junior Full Stack Developer and Systems Engineering Student
 
 ## About me
 I'm a Systems Engineering student currently studying at the Universidad Nacional de General Sarmiento and have completed a Full Stack Developer course at Coderhouse. I am passionate about programming and eager to gain experience as a developer.
