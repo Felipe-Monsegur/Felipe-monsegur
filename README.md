@@ -10,7 +10,7 @@ I love tackling new challenges, learning emerging technologies, and working on p
 ## Technologies and Skills:
 -Programming Languages: Java, Python, JavaScript, HTML, CSS, SASS, React.js
 - Web Development: HTML, CSS, JavaScript, React.js
-- Software Development: Java (backend), Python
+- Software Development: Java, Python
 - Other Skills: Process systematization, project autonomy, production cost analysis, inventory control, Problem-Solving
 - Tools: Git, GitHub, Visual Studio Code, Pack Office, Bondarea BOCS
 
