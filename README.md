@@ -2,10 +2,11 @@
 ### Junior Full Stack Developer and Systems Engineering Student
 
 ## About me
-I'm a Systems Engineering student currently studying at the Universidad Nacional de General Sarmiento and have completed a Full Stack Developer course at Coderhouse. I am passionate about programming and eager to gain experience as a developer.
-While I consider myself a junior, I'm highly motivated to learn and grow in the field. I’m particularly interested in backend development (currently taking a Java Backend course) and expanding my expertise in web technologies and software development.
-I have experience in systems management and have worked as a location manager at El Tero CW SRL, where I handled customer service, sales, cash management, and production system monitoring.
-I love tackling new challenges, learning emerging technologies, and working on projects that allow me to improve my skills.
+ I am a Systems Engineering student at Universidad Nacional de General Sarmiento, with a strong passion for software development. I have completed a Full Stack Development course at Coderhouse and am currently enhancing my skills through a Java Backend course at Globant University. My main interest lies in backend development, but I also enjoy working on full-stack projects that allow me to explore new technologies and improve my problem-solving abilities.
+ 
+In addition to my technical background, I have experience in systems management, having worked as a location manager at El Tero CW SRL, where I was responsible for customer service, sales, cash management, and production system monitoring. This experience has helped me develop strong analytical, organizational, and problem-solving skills.
+
+I am highly motivated to learn, grow, and take on new challenges in software development. I am always open to collaborative projects and professional opportunities where I can contribute my skills while continuing to expand my knowledge.
 
 ## Technologies and Skills:
 -Programming Languages: Java, Python, JavaScript, HTML, CSS, SASS, React.js, MySQL
