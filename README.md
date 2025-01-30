@@ -1,5 +1,5 @@
 # Hello! I'm Felipe Monsegur!
-### Junior Full Stack Developer and Systems Engineering Student
+### Junior Backend and Full Stack Developer and Systems Engineering Student
 
 ## About me
  I am a Systems Engineering student at Universidad Nacional de General Sarmiento, with a strong passion for software development. I have completed a Full Stack Development course at Coderhouse and am currently enhancing my skills through a Java Backend course at Globant University. My main interest lies in backend development, but I also enjoy working on full-stack projects that allow me to explore new technologies and improve my problem-solving abilities.
