@@ -8,7 +8,7 @@ I have experience in systems management and have worked as a location manager at
 I love tackling new challenges, learning emerging technologies, and working on projects that allow me to improve my skills.
 
 ## Technologies and Skills:
--Programming Languages: Java, Python, JavaScript, HTML, CSS, SASS, React.js
+-Programming Languages: Java, Python, JavaScript, HTML, CSS, SASS, React.js, MySQL
 - Web Development: HTML, CSS, JavaScript, React.js
 - Software Development: Java, Python, MySQL
 - Other Skills: Process systematization, project autonomy, production cost analysis, inventory control, Problem-Solving
