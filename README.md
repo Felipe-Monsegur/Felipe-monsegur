@@ -1,6 +1,6 @@
 # Hi there! I'm Felipe Monsegur
 
-### Backend Developer • AI Automation Developer • Data Analytics Enthusiast
+### AI Automation Developer • Backend Developer • Data Analytics Enthusiast
 
 I'm a Systems Engineering student from Argentina passionate about backend development, artificial intelligence, automation, and data analytics.
 
