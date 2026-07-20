@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Felipe Monsegur
+# Hi there! I'm Felipe Monsegur
 
 ### Backend Developer • AI Automation Developer • Data Analytics Enthusiast
 
