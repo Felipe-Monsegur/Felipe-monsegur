@@ -1,38 +1,156 @@
-# Hello! I'm Felipe Monsegur!
-### Junior Backend and Full Stack Developer and Systems Engineering Student
+# Hi there! 👋 I'm Felipe Monsegur
 
-## About me
- I am a Systems Engineering student at Universidad Nacional de General Sarmiento, with a strong passion for software development. I have completed a Full Stack Development course at Coderhouse and am currently enhancing my skills through a Java Backend course at Globant University. My main interest lies in backend development, but I also enjoy working on full-stack projects that allow me to explore new technologies and improve my problem-solving abilities.
- 
-In addition to my technical background, I have experience in systems management, having worked as a location manager at El Tero CW SRL, where I was responsible for customer service, sales, cash management, and production system monitoring. This experience has helped me develop strong analytical, organizational, and problem-solving skills.
+### Backend Developer • AI Automation Developer • Data Analytics Enthusiast
 
-I am highly motivated to learn, grow, and take on new challenges in software development. I am always open to collaborative projects and professional opportunities where I can contribute my skills while continuing to expand my knowledge.
+I'm a Systems Engineering student from Argentina passionate about backend development, artificial intelligence, automation, and data analytics.
 
-## Technologies and Skills:
--Programming Languages: Java, Python, JavaScript, HTML, CSS, SASS, React.js, MySQL
-- Web Development: HTML, CSS, JavaScript, React.js
-- Software Development: Java, Python, MySQL
-- Other Skills: Process systematization, project autonomy, production cost analysis, inventory control, Problem-Solving
-- Tools: Git, GitHub, Visual Studio Code, Pack Office, Bondarea BOCS
+Currently, I work as a **Catalog Specialist & AI Automation Developer**, where I develop AI-powered automation workflows, optimize product catalogs, and build solutions using Large Language Models (LLMs). I enjoy designing scalable backend systems, solving real-world problems, and continuously learning new technologies.
 
-## Education
-- Systems Engineering – Universidad Nacional de General Sarmiento (2023 - Present)
-- Backend Java – Globant University (2024 - Present)
-- Full Stack Development – Coderhouse (2021 - 2022)
-- High School Diploma in Natural and Exact Sciences – Colegio de la Providencia (2016 - 2021)
+I'm always looking for opportunities to collaborate, build impactful software, and grow as a developer.
 
-## Languages
-- inglish – B2
-- Spanish – Native
+---
 
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally.
-- Email: felipemonsegur@gmail.com
-- LinkedIn: linkedin.com/in/felipe-monsegur
-- GitHub: github.com/Felipe-Monsegur
+## 🚀 About Me
 
+- 🎓 Systems Engineering Student at **Universidad Nacional de General Sarmiento (UNGS)**
+- 💼 Catalog Specialist & AI Automation Developer
+- ☕ Java Backend Developer
+- 🤖 AI Automation Developer
+- 📊 Data Analytics Enthusiast
+- 🌎 Based in Argentina
+- 💡 Passionate about building scalable and efficient software solutions
 
+---
 
+## 🛠 Tech Stack
 
+### 💻 Programming Languages
 
+- Java
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+- Sass
 
+### ⚙️ Backend
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- JDBC
+- Maven
+
+### 🎨 Frontend
+
+- React
+- HTML5
+- CSS3
+- JavaScript
+
+### 🗄️ Databases
+
+- MySQL
+
+### 🤖 AI & Automation
+
+- Amazon Bedrock
+- OpenAI API
+- Claude
+- Prompt Engineering
+- n8n
+- Make
+- Zapier
+
+### ☁️ Cloud
+
+- AWS
+
+### 📊 Data & Analytics
+
+- Data Analytics
+- Power BI
+- SQL
+
+### ⚙️ DevOps & Tools
+
+- Docker
+- Git
+- GitHub
+- IntelliJ IDEA
+- Visual Studio Code
+- Postman
+
+---
+
+## 💼 Professional Experience
+
+### Catalog Specialist & AI Automation Developer
+
+- Developed AI-powered automation workflows using Large Language Models (LLMs)
+- Automated catalog management and data extraction processes
+- Integrated AI services into business workflows
+- Optimized operational processes through automation
+- Worked with cloud-based AI solutions and APIs
+
+---
+
+## 🎯 Core Competencies
+
+- Backend Development
+- REST API Development
+- Object-Oriented Programming
+- AI Automation
+- Prompt Engineering
+- Data Analytics
+- Power BI
+- AWS
+- Machine Learning
+- System Design
+- Docker
+- Database Design
+- Problem Solving
+- Process Automation
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Systems Engineering**  
+*Universidad Nacional de General Sarmiento (UNGS)*  
+2023 – Present
+
+**Java Backend Developer**  
+*Globant University*  
+Completed
+
+**Full Stack Developer**  
+*Coderhouse*  
+Completed
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish — Native
+- 🇬🇧 English — B2
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email**  
+**felipemonsegur@gmail.com**
+
+💼 **LinkedIn**  
+https://linkedin.com/in/felipe-monsegur
+
+💻 **GitHub**  
+https://github.com/Felipe-Monsegur
+
+---
+
+> *"Building scalable software, automating processes, and leveraging AI to solve real-world problems."*
